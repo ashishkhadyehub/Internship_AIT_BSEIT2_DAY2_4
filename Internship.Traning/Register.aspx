@@ -7,9 +7,9 @@
      <h2>Register</h2>
     
          <div class="mb-3 mt-3">
-             <label>Name</label>
+             <label>User Name</label>
             
-             <asp:TextBox runat="server" CssClass="form-control" ID="txtName"></asp:TextBox>
+             <asp:TextBox  runat="server" CssClass="form-control" ID="txtName"></asp:TextBox>
          </div>
          <div class="mb-3 mt-3">
              <label>Contact</label>
